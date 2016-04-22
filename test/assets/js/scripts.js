@@ -2,6 +2,7 @@
 Theme Name: IAMX
 Author: Trendy Theme
 Author URL: trendytheme.net
+Edited by Me further
 */
 
 /*
@@ -15,9 +16,9 @@ Author URL: trendytheme.net
     = More skill
     = Shuffle
     = Magnific Popup
-    = Vidio auto play
-    = Fit Vids
-    = Google Map
+    = Vidio auto play   - Removed
+    = Fit Vids          - Removed
+    = Google Map        - Updated
 
 */
 
